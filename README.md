@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lovy003
 - 👀 I’m interested in Web Development and photography
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JS and Python
 
 
 <!---
